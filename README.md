@@ -1,6 +1,6 @@
 # Value of a Statistical Life: A Review of Empirical Evidence for Brazil
 
-**Replication materials for:** Stivali (2023), *Valor de uma vida estatística: uma revisão da literatura empírica para o Brasil*, published in *Pesquisa e Planejamento Econômico*, issue 66.
+**Replication materials for:** Stivali (2023), *Valor de uma vida estatística: uma revisão da literatura empírica para o Brasil*, published in *Planejamento e Políticas Públicas*, issue 66.
 
 **DOI:** https://doi.org/10.38116/ppp66art7
 
@@ -75,7 +75,7 @@ The original script explains that automatic estimation with `metafor` returned a
 
 ## Citation
 
-Stivali (2023). *Valor de uma vida estatística: uma revisão da literatura empírica para o Brasil*. *Pesquisa e Planejamento Econômico*, issue 66.
+Stivali (2023). *Valor de uma vida estatística: uma revisão da literatura empírica para o Brasil*. *Planejamento e Políticas Públicas*, issue 66.
 
 https://doi.org/10.38116/ppp66art7
 
@@ -83,6 +83,6 @@ If you use these materials, please cite the published article.
 
 ## Questions and reuse
 
-The materials are shared for research transparency and reproducibility. No software license is specified in this repository; publication on GitHub alone does not grant a general license to reuse the code.
+The materials are shared for research transparency and reproducibility. The source code is distributed under the MIT License (see [LICENSE](LICENSE)). The published article and any third-party materials remain subject to their respective copyright and licensing terms.
 
 For questions about the calculations, please open an issue in this repository.
