@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this replication code, please cite the published article below."
+type: software
+title: "Replication code for: Valor de uma vida estatística: uma revisão da literatura empírica para o Brasil"
+authors:
+  - family-names: "Stivali"
+    given-names: "Matheus"
+    orcid: "https://orcid.org/0000-0002-7757-6433"
+repository-code: "https://github.com/stivali/2023_PPP_VVE"
+license: MIT
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Stivali"
+      given-names: "Matheus"
+      orcid: "https://orcid.org/0000-0002-7757-6433"
+  title: "Valor de uma vida estatística: uma revisão da literatura empírica para o Brasil"
+  journal: "Planejamento e Políticas Públicas"
+  issue: 66
+  year: 2023
+  doi: "10.38116/ppp66art7"
